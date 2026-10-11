@@ -45,5 +45,10 @@
 		"svelte-dnd-action": "^0.9.68",
 		"svelte-file-dropzone": "^2.0.9",
 		"svelte-i18n": "^4.0.1"
+	},
+	"pnpm": {
+		"overrides": {
+			"tar": "7.5.21"
+		}
 	}
 }
